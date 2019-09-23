@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project ImageTools -->
+<!-- Saved: 2018-01-26, 05:41:38 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1" uid="{762b3737-243a-4c9a-b2da-5cb813150b15}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2018-01-03, 05:36:09</Created>
+    <Resource>
+      <Filename>ImageViewer.py</Filename>
+      <Linenumber>32</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>

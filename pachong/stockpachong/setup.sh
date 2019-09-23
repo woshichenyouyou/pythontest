@@ -1,0 +1,2 @@
+chown xruser */*
+chgrp xruser */*
